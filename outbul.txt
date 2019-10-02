@@ -1,0 +1,100 @@
+
+          LIST OF EARTHQUAKES FROM IMD CATALOGUE       
+                   OCCURRING BETWEEN                   
+           LATITUDE    0.00 TO  40.00 Deg. N
+           LONGITUDE  60.00 TO 100.00 Deg. E
+     FOR THE PERIOD JANUARY  ,2018 TO JANUARY      ,2018
+              (MAGNITUDE 0.0 BETWEEN 9.3)
+ ------------------------------------------------------------------------------
+ Year Mon Day Origin-time Latitude Longitude Depth Magnitude/type      Region
+              Hr Min Sec  (Deg.N)  (Deg.E)   (km.)    Agency   
+               (in UTC)                                
+ ------------------------------------------------------------------------------
+ 2018 01  01  01 03 16.7   25.03    93.67     6    3.4W IMD            MANIPUR, INDIA                          
+ 2018 01  01  02 16 01.2   37.32    71.24     100  4.3W IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  01  05 40 14.6   36.98    70.98     97   4.9b IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  01  16 01 02.9   26.7     92.46     60   3.6L IMD            ASSAM, INDIA                            
+ 2018 01  01  20 51 46.2   19.83    73.27     10   3.5W IMD            MAHARASHTRA, INDIA                      
+ 2018 01  02  00 09 44.2   36.27    70.0      193  4.6b IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  02  20 47 54.0   8.0      91.48     33   4.5b IMD            Nicobar Islands, India region           
+ 2018 01  02  21 42 48.7   37.14    72.25     322  4.1W IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  02  23 16 01.8   39.53    72.48     58   4.5b IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  03  17 28 33.7   30.6     97.06     10   4.1W IMD            Xizang, China                           
+ 2018 01  03  21 35 54.7   24.25    97.99     24   4.7b IMD            Yunnan, China                           
+ 2018 01  04  15 00 34.9   25.06    96.69     9    4.4W IMD            Kachin, Myanmar                         
+ 2018 01  04  16 00 07.9   39.36    73.46     10   4.2W IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  04  19 53 52.5   38.63    74.4      216  4.1L IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  04  19 57 32.5   7.15     95.81     256  4.8b IMD            Nicobar Islands, India region           
+ 2018 01  05  07 11 04.9   25.91    92.5      10   3.9L IMD            ASSAM, INDIA                            
+ 2018 01  05  07 52 50.7   38.04    74.47     256  4.0L IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  05  20 23 07.0   26.09    92.22     12   3.2L IMD            MEGHALAYA-ASSAM BORD.REG.               
+ 2018 01  06  09 01 58.7   26.34    92.97     34   3.3L IMD            ASSAM, INDIA                            
+ 2018 01  06  19 55 10.8   38.03    78.63     10   4.1W IMD            Xinjiang Uygur, China                   
+ 2018 01  06  22 56 53.0   17.53    95.12     10   3.8W IMD            Myanmar                                 
+ 2018 01  07  06 47 14.6   24.71    94.54     9    5.8b IMD            Sagaing, Myanmar                        
+ 2018 01  08  09 43 06.8   36.39    70.93     278  4.2L IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  08  21 55 16.2   36.51    70.96     202  3.8L IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  09  00 05 50.0   37.94    72.88     102  5.3L IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  09  12 55 32.9   32.86    76.16     5    2.9L IMD            HIMACHAL PRADESH, INDIA                 
+ 2018 01  09  19 20 17.0   25.5     90.44     15   3.0W IMD            MEGHALAYA, INDIA                        
+ 2018 01  09  19 32 12.0   29.11    69.54     10   3.5L IMD            PAKISTAN                                
+ 2018 01  11  18 26 26.5   18.23    95.99     10   6.0b IMD            Myanmar                                 
+ 2018 01  11  18 30 26.7   18.47    95.8      10   5.2b IMD            Myanmar                                 
+ 2018 01  11  18 38 15.6   18.38    96.09     10   5.4W IMD            Myanmar                                 
+ 2018 01  11  18 43 02.0   18.23    96.08     10   5.1b IMD            Myanmar                                 
+ 2018 01  11  18 44 01.6   18.23    95.94     10   5.1b IMD            Myanmar                                 
+ 2018 01  11  18 53 09.8   18.48    95.81     10   4.6b IMD            Myanmar                                 
+ 2018 01  11  18 55 06.6   18.33    96.04     10   4.6b IMD            Myanmar                                 
+ 2018 01  11  20 08 32.5   18.22    96.51     10   4.8b IMD            Myanmar                                 
+ 2018 01  11  22 30 42.0   18.23    96.46     10   4.3b IMD            Myanmar                                 
+ 2018 01  12  03 40 48.2   38.99    69.87     26   4.9b IMD            Tajikistan                              
+ 2018 01  12  04 15 58.0   18.26    96.82     10   4.8b IMD            Myanmar                                 
+ 2018 01  12  07 29 47.4   24.88    95.28     128  4.5b IMD            Sagaing, Myanmar                        
+ 2018 01  12  15 23 58.9   18.22    96.02     10   4.8b IMD            Myanmar                                 
+ 2018 01  13  08 20 30.8   22.77    92.38     15   2.5L IMD            BANGLADESH-INDIA(MIZORAM) BORD. REGION  
+ 2018 01  13  13 51 07.3   18.08    97.03     10   4.7b IMD            Myanmar                                 
+ 2018 01  13  23 29 47.2   18.29    96.25     10   4.8b IMD            Myanmar                                 
+ 2018 01  14  02 45 38.5   36.78    71.72     262  4.5L IMD            LOCALITY:                               
+ 2018 01  14  09 19 23.5   36.72    70.36     155  5.9b IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  14  15 48 08.5   12.17    92.3      18   4.7b IMD            Andaman Islands, India region           
+ 2018 01  14  17 50 00.5   18.4     95.71     10   4.6W IMD            Myanmar                                 
+ 2018 01  15  02 58 42.9   38.95    74.24     50   4.1L IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  16  03 51 50.7   4.6      86.87     14   4.2b IMD            North Indian Ocean                      
+ 2018 01  16  07 35 31.8   17.28    73.71     5    3.4L IMD            KOYNA REGION, MAHA., INDIA              
+ 2018 01  16  11 23 02.2   24.7     94.85     120  4.1L IMD            Sagaing, Myanmar                        
+ 2018 01  16  15 21 22.8   36.76    71.38     218  4.3L IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  17  01 25 22.8   34.56    86.74     10   5.2b IMD            Xizang, China                           
+ 2018 01  17  03 48 15.0   38.02    74.71     245  4.2L IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  17  07 34 43.7   37.09    72.06     263  3.9L IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  17  07 43 21.7   18.11    96.91     10   4.2b IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  17  19 52 49.0   36.28    70.83     82   4.3L IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  18  02 03 31.1   25.27    95.02     80   4.3W IMD            Sagaing, Myanmar                        
+ 2018 01  19  00 20 28.7   37.19    72.15     127  4.6L IMD            Gorno-Badakhshan, Tajikistan            
+ 2018 01  19  14 41 14.6   36.95    76.93     10   4.1W IMD            Xinjiang Uygur, China                   
+ 2018 01  19  20 11 13.6   25.0     94.78     127  3.8W IMD            MYANMAR-INDIA(MANIPUR) BORD. REGION     
+ 2018 01  20  01 14 27.1   26.25    89.88     10   4.4b IMD            Assam, India                            
+ 2018 01  20  01 55 03.4   36.38    70.71     283  4.0L IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  20  10 06 48.9   24.03    94.3      111  4.3L IMD            Sagaing, Myanmar                        
+ 2018 01  21  06 06 45.0   17.19    73.72     5    3.3L IMD            KOYNA REGION, MAHA., INDIA              
+ 2018 01  22  00 25 30.0   38.4     78.19     33   4.1W IMD            Xinjiang Uygur, China                   
+ 2018 01  22  07 38 03.2   18.29    95.6      10   4.7b IMD            Myanmar                                 
+ 2018 01  23  13 02 08.3   21.25    70.53     10   3.6L IMD            GUJARAT, INDIA                          
+ 2018 01  24  06 56 58.0   1.82     96.51     33   5.0b IMD            Simeulue, Indonesia                     
+ 2018 01  24  11 01 46.0   14.1     92.86     10   4.0W IMD            Andaman Islands, India region           
+ 2018 01  24  19 21 37.7   22.95    94.51     100  4.2L IMD            Sagaing, Myanmar                        
+ 2018 01  25  01 15 58.9   8.42     91.61     10   6.1B IMD            Nicobar Islands, India region           
+ 2018 01  25  03 48 27.6   8.25     91.78     10   5.2B IMD            Nicobar Islands, India region           
+ 2018 01  25  20 42 58.5   33.27    83.56     10   4.1W IMD            Xizang, China                           
+ 2018 01  26  11 18 15.1   35.92    69.51     100  4.5L IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  27  17 19 14.1   36.63    70.51     100  4.1W IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  27  21 46 56.5   24.65    94.39     68   3.2W IMD            MANIPUR, INDIA                          
+ 2018 01  28  15 54 23.2   36.26    71.21     189  4.1W IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  28  21 02 52.4   25.38    90.29     15   3.1L IMD            MEGHALAYA, INDIA                        
+ 2018 01  30  14 15 14.8   24.63    89.45     10   4.2W IMD            Rajshahi, Bangladesh                    
+ 2018 01  31  04 58 52.2   26.44    66.67     35   4.8b IMD            Baluchistan, Pakistan                   
+ 2018 01  31  05 57 26.0   25.92    66.11     10   4.5W IMD            Baluchistan, Pakistan                   
+ 2018 01  31  07 07 00.3   36.53    70.84     193  6.2b IMD            HINDU KUSH REGION, AFGHANISTAN          
+ 2018 01  31  11 01 34.7   36.65    70.17     200  4.0L IMD            HINDU KUSH REGION, AFGHANISTAN          
+
+ ----------------------------------------------------
+ Total number of events:         85
